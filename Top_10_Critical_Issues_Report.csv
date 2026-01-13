@@ -1,0 +1,11 @@
+Rank,Ticket ID,Organization,Subject,Summary,Severity,Sentiment,Risk Score
+1,458922,Wag! - Instant Dog Walkers &amp; Sitters (wagwalking.com),can't enable partners as an agency,"The customer, an agency promoting a campaign via Branch, reports they cannot enable or see partners ",Severity 0: Emergency - Business Critical Outage (,Negative,6
+2,456751,Pilot Travel Centers LLC (pilottravelcenters.com),Unable to Log In to Branch with Company Credentials,SSO - unable to access dashboard,Severity 0: Emergency - Business Critical Outage (,Neutral,5
+3,457081,Headspace (headspace.com),Tried switching to Auth0 SSO and now instance is broken,Login issues after migrating to Auth0 SSO,Severity 0: Emergency - Business Critical Outage (,Neutral,5
+4,459051,Glassdoor (glassdoor.com),Link Creation fails with 400 error code,Unable to access dashboard,Severity 0: Emergency - Business Critical Outage (,Positive,5
+5,457271,Wonder (wonder.com),Re: Not all Branch Data is being Pass into our BQ,The customer confirmed they are successfully receiving customer_ids in ecommerce data but cannot dis,Severity 1: Urgent - Significant Business Disrupti,Positive,4
+6,457271,Wonder (wonder.com),Re: Not all Branch Data is being Pass into our BQ,The customer confirmed they are successfully receiving customer_ids in ecommerce data but cannot dis,Severity 1: Urgent - Significant Business Disrupti,Positive,4
+7,457271,Wonder (wonder.com),Re: Not all Branch Data is being Pass into our BQ,The customer confirmed they are successfully receiving customer_ids in ecommerce data but cannot dis,Severity 1: Urgent - Significant Business Disrupti,Positive,4
+8,458175,"Etsy, Inc. (etsy.com)",Deeplinks not being resolved correctly by Branch on Android,Dupe,Severity 1: Urgent - Significant Business Disrupti, ,4
+9,458195,WeedMaps (weedmaps.com),Discrepancy Between Branch Dashboard and Postbacks Recieved,"The customer, an agency managing a Weedmaps campaign, reports a significant discrepancy between Bran",Severity 1: Urgent - Significant Business Disrupti,Positive,4
+10,458537,Adobe (adobe.com),Cant log in through Adobe SSO,User getting SSO error,Severity 1: Urgent - Significant Business Disrupti,Neutral,4

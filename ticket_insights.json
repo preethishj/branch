@@ -1,0 +1,97 @@
+{
+  "top_keywords": [
+    [
+      "branch",
+      139
+    ],
+    [
+      "link",
+      64
+    ],
+    [
+      "data",
+      61
+    ],
+    [
+      "issue",
+      50
+    ],
+    [
+      "request",
+      44
+    ],
+    [
+      "access",
+      26
+    ],
+    [
+      "links",
+      25
+    ],
+    [
+      "campaign",
+      25
+    ],
+    [
+      "custom",
+      22
+    ],
+    [
+      "error",
+      21
+    ],
+    [
+      "account",
+      21
+    ],
+    [
+      "user",
+      20
+    ],
+    [
+      "integration",
+      20
+    ],
+    [
+      "unable",
+      19
+    ],
+    [
+      "dashboard",
+      19
+    ]
+  ],
+  "tfidf_terms": [
+    "access",
+    "account",
+    "ad",
+    "ads",
+    "app",
+    "branch",
+    "campaign",
+    "custom",
+    "data",
+    "error",
+    "id",
+    "integration",
+    "ios",
+    "issue",
+    "link",
+    "links",
+    "request",
+    "sso",
+    "user",
+    "web"
+  ],
+  "avg_sentiment": "-0.01728880670985933",
+  "sentiment_distribution": {
+    "positive": 40,
+    "neutral": 475,
+    "negative": 55
+  },
+  "status_distribution": {
+    "Closed": 567,
+    "Solved": 3
+  },
+  "monthly_distribution": {}
+}
